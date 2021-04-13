@@ -10,7 +10,7 @@ This is the link for the [dataset](https://www.kaggle.com/c/stumbleupon/data).
 
 - First I extracted the main information from the dataset to process it further.
 - Then, I used **BertTokenizer** to tokenize the words so that these words can be processed by our network.
-- After that I have used pre trained **BERT Transformer** specifically **BertSequenceClassification** to classify the text input as "evergreen" and "ephimeral".
+- After that I have used pre trained **BERT Transformer** specifically **BertSequenceClassification** to classify the text input as "evergreen" and "ephemeral".
 
 ### Result!! <br>
 I got 78% score on the test set on Kaggle 
